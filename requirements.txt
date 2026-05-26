@@ -1,7 +1,7 @@
-agent-framework
-agent-framework-foundry-hosting
-azure-identity
-python-dotenv
+agent-framework==1.4.0
+agent-framework-foundry==1.4.0
+agent-framework-foundry-hosting==1.0.0a260514
+python-dotenv==1.2.2
 pydantic
 debugpy
 agent-dev-cli --pre
